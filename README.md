@@ -1,19 +1,12 @@
-## Getting Started
+# AdvProgramminLab6
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains the code for Lab 6 assignment.The assignment's requirements is to write a Java program that sorts the containers in an ARXML file alphabetically and outputs the result to a new file with a modified name.
 
-## Folder Structure
+## Requirements
 
-The workspace contains two folders by default, where:
+The program should handle several exceptions, including an exception for empty classes and an exception for invalid file names. These exceptions are implemented in the `EmptyAutosarFileException.java` and `NotVaildAutosarFileException.java` files, respectively. I added 2 more exeptions, 'NotExistingAutosarFileException.java' for the non existing file, and 'DefAutosarFileException.java' for arxml files with defected data.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Usage
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-"# AdvProgramminLab6" 
+To use this program, you will need to have Java installed on your system. You can compile and run the program using the vatch file 'run.bat'. it will test the required 3 cases.
