@@ -4,9 +4,9 @@ This repository contains the code for Lab 6 assignment.The assignment's requirem
 
 
 ## Student Data
-Name : Eslam Mohamed Marzouk
-Code: 20000252
-section : 3
+Name : Eslam Mohamed Marzouk.
+Code: 20000252.
+section : 3.
 
 
 ## Requirements
